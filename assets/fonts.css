@@ -1,0 +1,59 @@
+@font-face {
+  font-family: 'sanchez-italic';
+  src: url('./fonts/sanchez/sanchez-italic-webfont.woff2') format('woff2'),
+    url('./fonts/sanchez/sanchez-italic-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'sanchez-regular';
+  src: url('./fonts/sanchez/sanchez-regular-webfont.woff2') format('woff2'),
+    url('./fonts/sanchez/sanchez-regular-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'AlternateGothic-No1';
+  src: url('./fonts/alternate-gothic/AlternateGothic-No1.eot') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'AlternateGothic-No1';
+  src: url('./fonts/alternate-gothic/AlternateGothic-No1.ttf') format('truetype'),
+    url('./fonts/alternate-gothic/AlternateGothic-No1.svg#AlternateGothic-No1') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'AlternateGothic-No2';
+  src: url('./fonts/alternate-gothic/AlternateGothic-No2.eot') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'AlternateGothic-No2';
+  src: url('./fonts/alternate-gothic/AlternateGothic-No2.ttf') format('truetype'),
+    url('./fonts/alternate-gothic/AlternateGothic-No2.svg#AlternateGothic-No2') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'AlternateGothic-No3';
+  src: url('./fonts/alternate-gothic/AlternateGothic-No3.eot') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'AlternateGothic-No3';
+  src: url('./fonts/alternate-gothic/AlternateGothic-No3.ttf') format('truetype'),
+    url('./fonts/alternate-gothic/AlternateGothic-No3.svg#AlternateGothic-No3') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
